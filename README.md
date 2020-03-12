@@ -1,7 +1,7 @@
-# binary-sort
+# binary-search
 
 ## Instalation
-After you clone this repo you need to move inside ```binary-sort``` directory and run command
+After you clone this repo you need to move inside ```binary-search``` directory and run command
 
 ``` npm install```
 
@@ -21,13 +21,13 @@ This method will return index of founded value. If value does not exist in this 
 2
 ```
 
-**binarySort** method takes two parametrs:
+**binarySearch** method takes two parametrs:
 
- - **array** -> it is the list which you want to sort
+ - **array** -> it is the list of elements in which you want to find a value
  - **value** -> value to search
 
 ## How it works
-On this graphic you can see how **binary-sort** algortihm works :
+On this graphic you can see how **binary-search** algortihm works :
 <p align="center">
   <img src="https://i.stack.imgur.com/At5nF.jpg=true" alt="BinarySearch"/>
 </p>
